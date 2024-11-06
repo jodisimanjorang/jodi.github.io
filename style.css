@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: black;
+}
+
+.btn-custom {
+  background-color: #2a2016;
+  color: #fff;
+  border-color: #2a2016;
+}
+
+/* Efek hover */
+.btn-custom:hover {
+  background-color: #1f1912;
+  border-color: #1f1912;
+  color: #fff;
+}
+
+section {
+  padding-top: 6rem;
+}
